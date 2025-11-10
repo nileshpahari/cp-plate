@@ -5,13 +5,6 @@ using namespace std;
   ios::sync_with_stdio(false);                                                 \
   cin.tie(NULL);
 
-typedef long long ll;
-typedef vector<int> vi;
-typedef vector<pair<int, int>> vip;
-typedef vector<ll> vll;
-typedef pair<int, int> pii;
-typedef pair<ll, ll> pll;
-
 #define nl '\n'
 
 void solve() {}
