@@ -5,7 +5,8 @@ using namespace std;
   ios::sync_with_stdio(false);                                                 \
   cin.tie(NULL);
 
-#define nl '\n'
+#define ia(a, n) \
+  for (int i = 0; i < (n); i++) cin >> (a)[i]
 
 void solve() {}
 
