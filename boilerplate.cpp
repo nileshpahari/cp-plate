@@ -8,7 +8,13 @@ using namespace std;
 #define ia(a, n) \
   for (int i = 0; i < (n); i++) cin >> (a)[i]
 
-#define ll long long
+typedef long long ll;
+typedef vector<int> vi;
+typedef vector<ll> vll;
+typedef vector<pair<int, int>> vip;
+typedef vector<pair<int, int>> vil;
+typedef pair<int, int> pii;
+typedef pair<ll, ll> pll;
 
 #define nl '\n'
 
