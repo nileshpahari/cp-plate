@@ -11,8 +11,6 @@ using namespace std;
 typedef long long ll;
 typedef vector<int> vi;
 typedef vector<ll> vll;
-typedef vector<pair<int, int>> vip;
-typedef vector<pair<int, int>> vil;
 typedef pair<int, int> pii;
 typedef pair<ll, ll> pll;
 
